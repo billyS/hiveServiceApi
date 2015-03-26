@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Export-Package: uk.co.billy.hive.doorlockservice.api;version="1.0"
+Bundle-SymbolicName: uk.co.billy.hive.doorlockservise_api
+Bundle-Name: Doorlock Service API
+Bundle-Version: 1.0
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1427284378795
+Import-Package: uk.co.billy.hive.doorlockservice.api;version="1.0"
+Created-By: 1.8.0_25 (Oracle Corporation)
+Tool: Bnd-0.0.227
+
